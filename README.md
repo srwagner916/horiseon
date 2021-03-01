@@ -8,4 +8,4 @@ This is a webpage that promotes the company Horiseon Social Solution Services, I
 https://srwagner916.github.io/horiseon/
 
 ## Screenshot of Webpage
-![first screenshot of page](/assets/images/horiseon-screenshot1.png)
+![first screenshot of page](./assets/images/horiseon-screenshot1.png)
