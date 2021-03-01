@@ -9,3 +9,8 @@ https://srwagner916.github.io/horiseon/
 
 ## Screenshot of Webpage
 ![first screenshot of page](./assets/images/horiseon-screenshot1.png)
+
+![second screenshot of page](./assets/images/horiseon-screenshot2.png)
+
+## Contribution
+Refactor by Shay Wagner
